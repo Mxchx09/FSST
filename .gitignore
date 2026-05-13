@@ -13,6 +13,7 @@
 *~
 *.json
 
+*.exe
 *.bak
 # Environment files (containing secrets, API keys, credentials)
 .env
@@ -36,6 +37,8 @@ build/
 develop-eggs/
 dist/
 downloads/
+
+.vscode/
 
 eggs/
 .eggs/

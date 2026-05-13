@@ -4,7 +4,9 @@ int add(int a, int b) {
 }
 
 int fibonacci(int n) {
-    for (i=0; i<= n; i++)
+    for (int i=0; i<= n; i++) {
+        
+    }
 }
 
 void main() {
